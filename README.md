@@ -22,7 +22,7 @@ Gives you the [Bot Invation](https://discord.com/oauth2/authorize?client_id=7271
 ---
  | Developers        | Names       |  Status  |
  | ------------- |:---------------:| --------:|
- | Lead-1        | Asima-sama#9913 | Dms open |
+ | Lead-1        | Asima-sama#7707 | Dms open |
  | Lead-2        | Sheols-sama#5584| Dms open |
 ---
  Thank you for reading - Users!
